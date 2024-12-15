@@ -1,0 +1,63 @@
+2024-12-15 22:41:15 [main] INFO : Initializing FileHandler...
+2024-12-15 22:41:18 [main] INFO : Cells initialized with random values.
+2024-12-15 22:41:18 [main] INFO : Start cells initialized.
+2024-12-15 22:41:18 [main] INFO : Game field initialized.
+2024-12-15 22:41:18 [main] INFO : Cells initialized with random values.
+2024-12-15 22:41:18 [main] INFO : Start cells initialized.
+2024-12-15 22:41:18 [main] INFO : Game field initialized.
+2024-12-15 22:41:18 [main] INFO : GameModel initialized with size 4
+2024-12-15 22:41:19 [main] INFO : Game panel initialized.
+2024-12-15 22:41:19 [main] INFO : Top panel initialized.
+2024-12-15 22:41:19 [main] INFO : Control panel initialized.
+2024-12-15 22:41:19 [main] INFO : View initialized successfully.
+2024-12-15 22:41:19 [main] INFO : Commander initialized.
+2024-12-15 22:41:19 [main] INFO : Commander initialized.
+2024-12-15 22:41:19 [main] INFO : Resources updated.
+2024-12-15 22:41:19 [main] INFO : Resources updated.
+2024-12-15 22:41:19 [main] INFO : Action listeners set.
+2024-12-15 22:41:19 [main] INFO : Action listeners set successfully.
+2024-12-15 22:41:19 [main] INFO : Controller initialized successfully.
+2024-12-15 22:41:19 [main] INFO : User chose to start a new game.
+2024-12-15 22:41:22 [AWT-EventQueue-0] INFO : Game exited without saving.
+2024-12-15 22:41:24 [main] INFO : Initializing FileHandler...
+2024-12-15 22:41:30 [main] INFO : Cells initialized with random values.
+2024-12-15 22:41:30 [main] INFO : Start cells initialized.
+2024-12-15 22:41:30 [main] INFO : Game field initialized.
+2024-12-15 22:41:30 [main] INFO : Cells initialized with random values.
+2024-12-15 22:41:30 [main] INFO : Start cells initialized.
+2024-12-15 22:41:30 [main] INFO : Game field initialized.
+2024-12-15 22:41:30 [main] INFO : GameModel initialized with size 4
+2024-12-15 22:41:30 [main] INFO : Game panel initialized.
+2024-12-15 22:41:30 [main] INFO : Top panel initialized.
+2024-12-15 22:41:30 [main] INFO : Control panel initialized.
+2024-12-15 22:41:30 [main] INFO : View initialized successfully.
+2024-12-15 22:41:30 [main] INFO : Commander initialized.
+2024-12-15 22:41:30 [main] INFO : Commander initialized.
+2024-12-15 22:41:30 [main] INFO : Resources updated.
+2024-12-15 22:41:30 [main] INFO : Resources updated.
+2024-12-15 22:41:30 [main] INFO : Action listeners set.
+2024-12-15 22:41:30 [main] INFO : Action listeners set successfully.
+2024-12-15 22:41:30 [main] INFO : Controller initialized successfully.
+2024-12-15 22:41:30 [main] INFO : User chose to start a new game.
+2024-12-15 22:41:33 [AWT-EventQueue-0] INFO : Game exited without saving.
+2024-12-15 22:42:07 [main] INFO : Initializing FileHandler...
+2024-12-15 22:42:09 [main] INFO : Cells initialized with random values.
+2024-12-15 22:42:09 [main] INFO : Start cells initialized.
+2024-12-15 22:42:09 [main] INFO : Game field initialized.
+2024-12-15 22:42:09 [main] INFO : Cells initialized with random values.
+2024-12-15 22:42:09 [main] INFO : Start cells initialized.
+2024-12-15 22:42:09 [main] INFO : Game field initialized.
+2024-12-15 22:42:09 [main] INFO : GameModel initialized with size 4
+2024-12-15 22:42:09 [main] INFO : Game panel initialized.
+2024-12-15 22:42:09 [main] INFO : Top panel initialized.
+2024-12-15 22:42:09 [main] INFO : Control panel initialized.
+2024-12-15 22:42:09 [main] INFO : View initialized successfully.
+2024-12-15 22:42:09 [main] INFO : Commander initialized.
+2024-12-15 22:42:09 [main] INFO : Commander initialized.
+2024-12-15 22:42:09 [main] INFO : Resources updated.
+2024-12-15 22:42:09 [main] INFO : Resources updated.
+2024-12-15 22:42:09 [main] INFO : Action listeners set.
+2024-12-15 22:42:09 [main] INFO : Action listeners set successfully.
+2024-12-15 22:42:09 [main] INFO : Controller initialized successfully.
+2024-12-15 22:42:09 [main] INFO : User chose to start a new game.
+2024-12-15 22:42:12 [AWT-EventQueue-0] INFO : Game exited without saving.
