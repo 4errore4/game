@@ -16,3 +16,4 @@
 1. запус по пути Gamestat/gameStrategy/build
 /libs/gameStrategy-1.0-SNAPSHOT.jar
 2. Убедитесь, что у вас установлен JDK (версия 18).
+3. так же проект можно скачать с яндекс диска - https://disk.yandex.ru/d/YlO0umFtJKcFJA
